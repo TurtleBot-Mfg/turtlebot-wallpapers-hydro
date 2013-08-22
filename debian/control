@@ -1,17 +1,17 @@
-Source: turtlebot-wallpapers
+Source: turtlebot-wallpapers-hydro
 Section: x11
 Priority: optional
 Maintainer: I Heart Engineering <code@iheartengineering.com>
 Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.9.3
 
-Package: turtlebot-wallpapers
+Package: turtlebot-wallpapers-hydro
 Architecture: any
-Provides: turtlebot-wallpapers
+Provides: turtlebot-wallpapers-hydro
 Conflicts: 
 Replaces:
 Depends: ${misc:Depends}
-Description: TurtleBot Wallpapers
+Description: TurtleBot Wallpapers-hydro
  The default Wallpapers for TurtleBots.
   * TurtleBot Backgrounds
 

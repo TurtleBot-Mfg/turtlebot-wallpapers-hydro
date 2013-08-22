@@ -1,4 +1,10 @@
-turtlebot-wallpapers (0.0.2) precise; urgency=low
+turtlebot-wallpapers-hydro (0.0.3) precise; urgency=low
+
+  * Added Groovy wallpapers
+
+ -- I Heart Engineering <code@iheartengineering.com>  Mon, 11 Feb 2013 01:40:34 -0500
+
+turtlebot-wallpapers-hydro (0.0.2) precise; urgency=low
 
   * Fixed to pass lintian
   * changes
@@ -6,7 +12,7 @@ turtlebot-wallpapers (0.0.2) precise; urgency=low
 
  -- I Heart Engineering <code@iheartengineering.com>  Sun, 22 Jul 2012 01:32:55 -0400
 
-turtlebot-wallpapers (0.0.1) UNRELEASED; urgency=low
+turtlebot-wallpapers-hydro (0.0.1) UNRELEASED; urgency=low
 
   * Re-init repo for git-dch support!!
 

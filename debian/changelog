@@ -1,3 +1,11 @@
+turtlebot-wallpapers-hydro (0.0.4~1.gbpf70a9c) UNRELEASED; urgency=low
+
+  ** SNAPSHOT build @f70a9c09e9fd6d645c600d7206bbf767a5025588 **
+
+  * Forked for ROS Hydro, added temporary new backgrounds
+
+ -- I Heart Engineering <code@iheartengineering.com>  Thu, 22 Aug 2013 13:08:01 -0400
+
 turtlebot-wallpapers-hydro (0.0.3) precise; urgency=low
 
   * Added Groovy wallpapers

@@ -1,3 +1,11 @@
+turtlebot-wallpapers-hydro (0.0.4~1.gbp5f4b9d) UNRELEASED; urgency=low
+
+  ** SNAPSHOT build @5f4b9decaa3638ee4bf7ec5300eb7655bce56f09 **
+
+  * Convert .png to .jpg
+
+ -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 15:14:30 -0400
+
 turtlebot-wallpapers-hydro (0.0.4~1.gbpf70a9c) UNRELEASED; urgency=low
 
   ** SNAPSHOT build @f70a9c09e9fd6d645c600d7206bbf767a5025588 **

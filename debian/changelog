@@ -1,3 +1,9 @@
+turtlebot-wallpapers-hydro (0.0.4) precise; urgency=low
+
+  * Resize to 1366x768, greeter does not seem to support zoom
+
+ -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 15:52:16 -0400
+
 turtlebot-wallpapers-hydro (0.0.4~1.gbp5f4b9d) UNRELEASED; urgency=low
 
   ** SNAPSHOT build @5f4b9decaa3638ee4bf7ec5300eb7655bce56f09 **
